@@ -1,5 +1,5 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming
-
+# DATE: 18/08/2026
 ## AIM:
 
 To write a Java program to compute the maximum net energy that can be collected from any contiguous block of buildings arranged in a circular grid using **Kadane’s Algorithm**.
@@ -30,8 +30,6 @@ The buildings either generate or consume energy. Since the grid is circular, the
 ```java
 /*
 Kadane's Algorithm
-Developed by: V RAKSHA DHARANIKA
-Register Number: 212223230167
 */
 
 import java.util.*;
