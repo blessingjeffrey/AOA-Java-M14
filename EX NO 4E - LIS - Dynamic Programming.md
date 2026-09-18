@@ -1,5 +1,5 @@
 # EX 4E Longest Increasing Subsequence – Dynamic Programming
-
+# DATE: 18/08/2026
 ## AIM:
 
 To write a Java program to compute the length of the **Longest Increasing Subsequence (LIS)** in a given integer array using **Dynamic Programming**.
@@ -23,12 +23,6 @@ To write a Java program to compute the length of the **Longest Increasing Subseq
 ## Program:
 
 ```java
-/*
-Program to implement Reverse a String
-Developed by: V RAKSHA DHARANIKA
-Register Number: 212223230167
-*/
-
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
